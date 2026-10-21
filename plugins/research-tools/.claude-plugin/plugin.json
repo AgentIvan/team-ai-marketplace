@@ -1,0 +1,18 @@
+{
+  "name": "research-tools",
+  "displayName": "Research Tools",
+  "version": "1.0.0",
+  "description": "A read-only researcher agent that answers questions about a codebase or a library with path:line and URL evidence, before anything is planned.",
+  "author": {
+    "name": "AgentIvan",
+    "url": "https://github.com/AgentIvan"
+  },
+  "homepage": "https://agentivan.github.io/team-ai-marketplace/#/plugin/research-tools",
+  "repository": "https://github.com/AgentIvan/team-ai-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "read-only",
+    "agent"
+  ]
+}
